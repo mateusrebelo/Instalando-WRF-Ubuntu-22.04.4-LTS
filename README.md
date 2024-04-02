@@ -58,7 +58,7 @@ export NETCDF_classic=1
 ```
 ./configure
 ```
-Agora realziação a instalando configurando da forma que você preferir. Onde vai aparecer as seguintes opções:
+Agora realize a instalação configurando da forma que você preferir. Onde vai aparecer as seguintes opções:
 
 ```
 checking for perl5... no
@@ -103,7 +103,7 @@ fseeko64 is supported
 ------------------------------------------------------------------------
 ...
 ```
-Eu utilizei a 35, onde _35 é (dm+sm)_. Fica a seu críterio qual utilizar.
+Eu utilizei a 35, onde _35 é (dm+sm) GNU (gfortran/gcc)_. Fica a seu críterio qual utilizar.
 
 **- Abra _"configure.wrf"_ e edite:**
 
@@ -116,7 +116,7 @@ Encontre a linha _"LIB_EXTERNAL"_ e substitua pelo código à seguir:
  LIB_EXTERNAL    = \
                       -L$(WRF_SRC_ROOT_DIR)/external/io_netcdf -lwrfio_nf -L/usr/lib -lnetcdff -lnetcdf     
 ```
-Finalizou a edição da linha, salve o arquivo e pode fechar.
+Finalizou a edição da linha, salve o arquivo, feche e compile seguindo o proximo passo.
 
 **- Agora, compile o código:**
 ```
