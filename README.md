@@ -103,7 +103,7 @@ fseeko64 is supported
 ------------------------------------------------------------------------
 ...
 ```
-Eu utilizei a 35, onde _35. (dm+sm)_. Fica a seu críterio qual utilizar.
+Eu utilizei a 35, onde _35 é (dm+sm)_. Fica a seu críterio qual utilizar.
 
 **- Abra _"configure.wrf"_ e edite:**
 
