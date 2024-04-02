@@ -135,4 +135,4 @@ A saída será assim no final:
 ```
 
 FIM!
-Créditos ao [cidadão](https://pratiman-91.github.io/2020/07/28/Installing-WRF-4.2.1-on-Ubuntu-LTS-20.04.html) e cŕeditos ao [manual](https://pratiman-91.github.io/2020/07/28/Installing-WRF-4.2.1-on-Ubuntu-LTS-20.04.html)
+Créditos ao [cidadão](https://pratiman-91.github.io/2020/07/28/Installing-WRF-4.2.1-on-Ubuntu-LTS-20.04.html) e cŕeditos ao [manual](https://www2.mmm.ucar.edu/wrf/OnLineTutorial/compilation_tutorial.php#STEP4)
